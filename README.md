@@ -45,4 +45,4 @@ The goal of this task is to **predict house prices** based on the following feat
 
 ## Notes
 - This notebook is part of the **PRODIGY ML Track**  
-- All files for this task are included: `house_price_prediction.ipynb` and `train.csv`
+- All files for this task are included: `welcome to colab.ipynb` and `train.csv`
